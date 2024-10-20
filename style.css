@@ -40,7 +40,6 @@
     font-weight: 400;
     padding: 0 10px;
     border-radius: 10px;
-    text-transform: uppercase;
     background: var(--clr);
   }
   .container .cloud h2::before {
